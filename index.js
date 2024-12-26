@@ -326,6 +326,7 @@ Percentage < 40%: Grad F*/
 //     console.log("Grade F");
 // }
 
+//******************************** Using switch case*******************************
 /**15- Write a program to print total number of days in month */
 
 // var monthNumber = prompt("Please choose a month").toLowerCase();
